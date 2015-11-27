@@ -12,8 +12,7 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('<a href="http://www.androidwallpaper.net/Chocolate_yellow_black_labs_Wallpaper-5091.html"><img src="http://www.androidwallpaper.net/uploads/wallpapers/2011/07/29/5091/thumb_big_wide_4f03ef0603dd388b99ca0b1d3256b798.jpg" alt="Chocolate yellow black labs" border="0" /></a>') center center no-repeat scroll;
-    -webkit-background-size: cover;
+    background: url('https://scontent.ftpa1-1.fna.fbcdn.net/hphotos-xaf1/v/t1.0-9/582669_3545099599206_1746896176_n.jpg?oh=f515b7c15314ee67d63c2eaee588f33c&oe=56E51282') center center no-repeat scroll;    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
