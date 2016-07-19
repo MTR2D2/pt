@@ -12,7 +12,7 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('black-lab-2.jpg') center center no-repeat scroll;    -webkit-background-size: cover;
+    background: url('/Users/Michael/Documents/Development/Time To Travel/black-lab-2.jpg') center center no-repeat scroll;    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
